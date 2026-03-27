@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/casbin/casbin-website",
+  "branch": "master",
+  "docusaurusRoot": "website",
+  "configFile": "website/siteConfig.js",
+  "translateCommand": "yarn write-translations",
+  "buildCommand": "yarn build",
+  "buildOutput": "build/casbin.github.io",
+  "packageManager": "yarn"
+}
